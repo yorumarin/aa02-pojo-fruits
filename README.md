@@ -76,3 +76,4 @@ specs for this phase. There are multiple test specs for each problem. Run the
 tests often, as the error messages for the failed tests will help you to debug
 your code.
 # aa02-pojo-fruits
+# aa02-pojo-fruits
