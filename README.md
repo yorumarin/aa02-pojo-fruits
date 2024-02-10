@@ -75,3 +75,4 @@ Run `npm test test/02-manipulate-fruit-objects-spec.js` to run all the test
 specs for this phase. There are multiple test specs for each problem. Run the
 tests often, as the error messages for the failed tests will help you to debug
 your code.
+# aa02-pojo-fruits
